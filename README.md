@@ -1,2 +1,6 @@
 # Financial_Engineering
-吳証恩_B05801002_公衛四
+108-2
+## About me 
+Name: 吳証恩(Wu Jeng-En)
+ID: B05801002
+Department: Dept. Public Health senior
